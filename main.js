@@ -210,3 +210,11 @@ function loop() {
 }
 
 loop();
+
+/**
+ * 初始化
+ * 选择生成小球的数量等。。。
+ */
+function init(){
+
+}
